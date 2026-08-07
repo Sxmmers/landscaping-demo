@@ -1,0 +1,51 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+
+  font-family: Arial, sans-serif;
+  line-height:1.0;
+  color: #222;
+}
+
+header {
+  
+  padding: 40px;
+  text-align: center;
+  background-color: #0b3d91;
+  color: white;
+
+
+}
+
+nav {
+  margin 20x 0;
+}
+
+nav a {
+
+  color: white;
+  text-decoration: none;
+  text-align center;
+  margin: 0 10px;
+
+}
+
+main {
+
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+
+}
+
+section {
+
+  padding: 40px 0;
+
+}
