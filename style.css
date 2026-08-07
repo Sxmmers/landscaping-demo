@@ -22,16 +22,25 @@ header {
 
 
 }
+header h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+header p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
 
 nav {
-  margin 20px 0;
+  margin: 20px 0;
 }
 
 nav a {
 
   color: white;
   text-decoration: none;
-  text-align: center;
   margin: 0 10px;
 
 }
