@@ -1,0 +1,10 @@
+services:
+  website:
+    build: .
+    image: demo-website:latest
+    container_name: demo-website
+
+    ports:
+      - "8080:80"
+
+    restart: unless-stopped
