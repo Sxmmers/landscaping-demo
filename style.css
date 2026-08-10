@@ -19,9 +19,12 @@ header {
   color: white;
 }
 
-#image{
-width: 100vw;
-height: 100vh;
+home {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJWxX3K3QwcuaO7p2XkfRlQv7z-jQiQgVPaw9qTfXVw&s=10");
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+
 }
 
 header h1 {
@@ -51,9 +54,7 @@ nav a {
 main {
   margin: auto;
   padding: 20px;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJWxX3K3QwcuaO7p2XkfRlQv7z-jQiQgVPaw9qTfXVw&s=10");
-  alt="Submersible well pump system"
-}
+  }
 
 section {
   padding: 80px 0;
