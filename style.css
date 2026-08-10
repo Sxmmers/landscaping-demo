@@ -19,9 +19,11 @@ header {
   color: white;
 }
 
-home {
+#home {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJWxX3K3QwcuaO7p2XkfRlQv7z-jQiQgVPaw9qTfXVw&s=10");
   background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
 }
 
 header h1 {
