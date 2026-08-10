@@ -19,6 +19,11 @@ header {
   color: white;
 }
 
+#image{
+width: 100vw;
+height: 100vh;
+}
+
 header h1 {
   font-size: 48px;
   margin-bottom: 20px;
